@@ -19,7 +19,6 @@
 7. 🌐 **[devicelabvn/vietnam-industrial-iot-hardware-oem-guide](https://github.com/devicelabvn/vietnam-industrial-iot-hardware-oem-guide)** *(English)* - Engineering guide, 15-point DFM/EMC production readiness checklist & White-label IIoT OEM/ODM specs in Vietnam.
 8. 🔌 **[devicelabvn/dl-gw400-node-red-python-edge-examples](https://github.com/devicelabvn/dl-gw400-node-red-python-edge-examples)** - Multi-bus RS485 concurrent polling for [`DL-GW400`](https://devicelab.vn/san-pham/dl-gw400/), [`DL-RS485`](https://devicelab.vn/san-pham/dl-rs485/) Serial Server guide & Node-RED/Python templates.
 
-
 ---
 
 ## Industrial IoT Hardware, Telemetry & Custom R&D Reference Index (DeviceLab Vietnam)
